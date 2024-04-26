@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <div>
 <h3>Funny seeing you here, here's a bit about me:</h3>
   <ul>
-    <li> 💻 I'm a Full Stack Developer and App Academy Graduate.</li>
+    <li> 💻 I'm a Full Stack Developer and App Academy graduate.</li>
     <li> 💡 I've built a few projects, you should check them out!</li>
     <li> 🖲️ In my free time, I'm climbing the ranks in games like Teamfight Tactics and VALORANT.</li>
   </ul>
